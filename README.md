@@ -5,7 +5,7 @@
 
 **Fecha:** 9 de mayo de 2026
 
-##Descripción
+## Descripción
 
 Este repositorio contiene el desarrollo de la Práctica 3: Creación de Procesos. El trabajo tiene como propósito fundamental que el equipo logre familiarizarse con el uso de funciones esenciales en lenguaje C, tales como fork, system y la familia exec, permitiendo así realizar diversas actividades de creación y gestión de procesos padres e hijos en entornos Unix/Linux.  Para trabajar con este código, se requiere un entorno Linux con el compilador gcc instalado. 
 
