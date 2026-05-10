@@ -1,1 +1,1 @@
-# Pr-ctica-3---Sistemas-Operativos-2026A
+# Practica-3---Sistemas-Operativos-2026A
