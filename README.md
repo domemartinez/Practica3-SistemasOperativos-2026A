@@ -1,4 +1,4 @@
-# Practica-3---Sistemas-Operativos-2026A
+# Practica-3-SistemasOperativos-2026A
 **Integrantes:** Samuel Crespo, Esteban López, Bryan Magarisca, Doménica Martínez, Esteban Valenzuela
 
 **Grupo:** D
