@@ -1,9 +1,11 @@
-# Practica-3-SistemasOperativos-2026A
+# Practica3-SistemasOperativos-2026A
 **Integrantes:** Samuel Crespo, Esteban López, Bryan Magarisca, Doménica Martínez, Esteban Valenzuela
 
 **Grupo:** D
 
 **Fecha:** 9 de mayo de 2026
+
+##Descripción
 
 Este repositorio contiene el desarrollo de la Práctica 3: Creación de Procesos. El trabajo tiene como propósito fundamental que el equipo logre familiarizarse con el uso de funciones esenciales en lenguaje C, tales como fork, system y la familia exec, permitiendo así realizar diversas actividades de creación y gestión de procesos padres e hijos en entornos Unix/Linux.  Para trabajar con este código, se requiere un entorno Linux con el compilador gcc instalado. 
 
