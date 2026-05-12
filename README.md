@@ -20,6 +20,21 @@ El laboratorio cuenta con las siguientes prácticas:
 - **Sustitución de Imagen de Proceso:** Uso de la función execl para que un proceso hijo realice una tarea externa especializada, basada en la estructura de la Figura 5 de la guía.
 
 Las carpetas que se usaron para este trabajo son las siguientes: 
-- **`Figura1/`**:
+- **`Figura1/`**:Identificación de valores PID y PPID.
     - figura1.c
     - README.md
+- **`Figura2/`**: Incremento de variable y registro en archivo.
+    -  figura2.c
+    -  README.md
+
+- **`Figura3/`**: Creación de un proceso hijo sin espera.
+    * `figura3.c`
+    * `README.md`
+
+- **`Figura4/`**: Creación de un proceso padre y tres procesos hijos.
+    * `figura4.c`
+    * `README.md`
+
+- **`Figura6/`**: Uso de la función `execl` para tareas especializadas.
+    * `figura5.c`
+    * `README.md`
