@@ -1,4 +1,4 @@
-# Ejercicio 5: Creación de Procesos Concurrentes
+# Ejercicio 5: Reemplazo de Proceso con EXECL
 
 ## Archivos Relacionados
 * `figura6.c`: El programa que realiza el `fork`.
