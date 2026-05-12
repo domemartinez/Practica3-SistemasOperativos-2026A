@@ -8,7 +8,7 @@
 
 ## Descripción del Proyecto 
 
-Este repositorio contiene el desarrollo de la Práctica 3: Creación de Procesos. El trabajo tiene como propósito fundamental que el equipo logre familiarizarse con el uso de funciones esenciales en lenguaje
+Este repositorio contiene el desarrollo de la Práctica 3: Creación de Procesos. El propósito fundamental de este trabajo es lograr familiarizarse con el uso de funciones esenciales en lenguaje
 C, permitiendo así realizar diversas actividades de creación y gestión de procesos padres e hijos en entornos Unix/Linux.  
 
 El laboratorio cuenta con las siguientes prácticas:
