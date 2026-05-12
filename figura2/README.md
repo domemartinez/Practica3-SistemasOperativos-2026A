@@ -8,3 +8,5 @@ La función ``fork()`` crea un nuevo proceso duplicando el proceso actual. Aunqu
 ### Variable en la memoria
 `` int variable = 0;`` 
 Esta variable nace en el proceso original. Al ejecutar ``fork()``, esta dirección de memoria se clona. El Padre tendrá su propia variable y el Hijo la suya. Cualquier cambio en una no afecta a la otra.
+
+
