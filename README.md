@@ -13,8 +13,8 @@ C, permitiendo así realizar diversas actividades de creación y gestión de pro
 
 El laboratorio cuenta con las siguientes prácticas:
 
-- **Identificación de Jerarquías:** Obtención de los valores PID (Process ID) y PPID (Parent Process ID) para comprender la relación padre-hijo
-- **Comunicación y Control:** Implementación de un flujo donde el proceso padre incrementa una variable 10 veces, mientras el proceso hijo registra cada uno de estos valores en un archivo de texto externo
+- **Identificación de Jerarquías:** Obtención de los valores PID (Process ID) y PPID (Parent Process ID) para comprender la relación padre-hijo.
+- **Comunicación y Control:** Implementación de un flujo donde el proceso padre incrementa una variable 10 veces, mientras el proceso hijo registra cada uno de estos valores en un archivo de texto externo.
 - **Gestión de Procesos Huérfanos:** Análisis de la creación de un hijo sin espera (wait).
 - **Multiprocesamiento:** Creación de un proceso padre y tres procesos hijos simultáneos, donde cada uno imprime en pantalla del 1 al 10 en pantalla.
 - **Sustitución de Imagen de Proceso:** Uso de la función execl para que un proceso hijo realice una tarea externa especializada.
