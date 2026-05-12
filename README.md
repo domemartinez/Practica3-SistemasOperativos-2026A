@@ -21,11 +21,11 @@ El laboratorio cuenta con las siguientes prácticas:
 
 Las carpetas que se usaron para este trabajo son las siguientes: 
 - **`Figura1/`**:Identificación de valores PID y PPID.
-    - figura1.c
-    - README.md
+    - `figura1.c`
+    - `README.md`
 - **`Figura2/`**: Incremento de variable y registro en archivo.
-    -  figura2.c
-    -  README.md
+    -  `figura2.c`
+    -  `README.md`
 
 - **`Figura3/`**: Creación de un proceso hijo sin espera.
     * `figura3.c`
