@@ -39,6 +39,12 @@ else {
 }
 ```
 
-El proceso padre se ejecuta en este bloque y lo que hace es incrementar su propia copia de la variable en pasos de 10 ha (10, 20, 30... hasta 100).
+El proceso padre se ejecuta en este bloque y lo que hace es incrementar su propia copia de la variable en pasos de 10 hasta 100. El padre espera a que el hijo termine de escribir antes de cerrar el programa, esto evita que el archivo se quede corrupto o que el hijo se convierta en un proceso "zombie".
 
-Sincronización (wait): El padre espera a que el hijo termine de escribir antes de cerrar el programa. Esto evita que el archivo se quede corrupto o que el hijo se convierta en un proceso "zombie".
+## Resultados Obtenidos
+
+Se puede ver que el proceso imprime en consola el incremento de la variable de 10 en 10 hasta llegar al 100, pero no podemos ver lo que el proceso hijo escribe en la hoja de texto, solo nos llega un mensjae de que ha terminado de escribir. 
+<img width="554" height="212" alt="Captura de pantalla 2026-05-11 133210" src="https://github.com/user-attachments/assets/cec1decb-6998-47e1-b138-dcdc773f24a0" />
+
+Al abrir la hoja de texto podemos ver el hijo ha escrito que la variable es 0 en las 10 iteraciones ya que como se mencionó anteriormente la memario no es compartida, por lo que el proceso hijo presenta su propia copia de "variable"
+<img width="600" height="209" alt="Captura de pantalla 2026-05-11 133118" src="https://github.com/user-attachments/assets/1251488a-bc4f-47ac-93b8-9bc6dde46b34" />
