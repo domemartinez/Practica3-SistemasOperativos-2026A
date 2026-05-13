@@ -23,18 +23,22 @@ Las carpetas que se usaron para este trabajo son las siguientes:
 - **`Figura1/`**:Identificación de valores PID y PPID.
     - `figura1.c`
     - `README.md`
+    - `uso_system.c`
+      
 - **`Figura2/`**: Incremento de variable y registro en archivo.
     -  `figura2.c`
     -  `README.md`
 
 - **`Figura3/`**: Creación de un proceso hijo sin espera.
-    * `figura3.c`
-    * `README.md`
+    - `Figura3.c`
+    - `Figura3_modificado.c`
+    - `README.md`
 
 - **`Figura4/`**: Creación de un proceso padre y tres procesos hijos.
-    * `figura4.c`
-    * `README.md`
+    - `Figura4.c`
+    - `README.md`
 
 - **`Figura6/`**: Uso de la función `execl` para tareas especializadas.
-    * `figura5.c`
-    * `README.md`
+    - `Figura6.c`
+    - `README.md`
+    - `programasust.c`
